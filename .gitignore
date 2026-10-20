@@ -1,0 +1,17 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.log
+*.sqlite3
+data/pdf/
+data/cache/
+data/runs/
+data/eval/runs/
+artifacts/
+outputs/
+*.faiss
+*.index
+.idea/
+.vscode/
